@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhanshreeA
 - 👀 I’m interested in Machine Learning and MLOps
-- 🌱 I’m currently learning the Go
+- 🌱 I’m currently learning Go
 
 <!---
 - 💞️ I’m looking to collaborate on a
